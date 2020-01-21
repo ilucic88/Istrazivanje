@@ -1,5 +1,5 @@
 x=5 
-# primjer grananja
+# primjer grananjaa
 if x==1: 
    print("X = 1") 
 elif x==2: 
